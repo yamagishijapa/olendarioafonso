@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d2c8ffb4cdf87b349a8b657ef592184e
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 7a006e73377118049b55adfdb19baec9
+  - enabled: 1
+    path: Assets/Scenes/Controle.unity
+    guid: 4279a8cd94415294c8efbe925b399597
+  - enabled: 1
+    path: Assets/Scenes/Credito.unity
+    guid: 7870901f9dd285a4ab1ff7e49e4a98cc
+  - enabled: 1
+    path: Assets/Scenes/feedbackDerrotaT.unity
+    guid: 2cf25b50ff066dc42b5a87e610f88e31
+  - enabled: 1
+    path: Assets/Scenes/feedbackVitoriaT.unity
+    guid: 0ea5217617cdcd747b901290fb64f36e
+  - enabled: 1
+    path: Assets/Scenes/Fase1.unity
+    guid: 138eb528263475f4d84e4d7c00593d29
+  - enabled: 1
+    path: Assets/Scenes/feedbackDerrota1.unity
+    guid: c2bb788da231dd142b08f4fc8b5cabda
+  - enabled: 1
+    path: Assets/Scenes/feedbackVitoria1.unity
+    guid: f02f30575f2849f468795f3e878b9157
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: 5f0a8a5cf7b8ecc45a228332be12cc8c
+  - enabled: 1
+    path: Assets/Scenes/feedbackDerrota2.unity
+    guid: afef3a759f5e58a48aa7d7e843f07aa6
+  - enabled: 1
+    path: Assets/Scenes/feedbackVitoria2.unity
+    guid: d8c4086e8b24b1c4e81188b61ad639bd
+  - enabled: 1
+    path: Assets/Scenes/Fase3.unity
+    guid: d6c24eac2647aa64e81bf2aaa9b8518e
+  - enabled: 1
+    path: Assets/Scenes/feedbackDerrota3.unity
+    guid: 611df17076a7076439d01e1aa42a4500
+  - enabled: 1
+    path: Assets/Scenes/feedbackVitoria3.unity
+    guid: 3cd77714cbd709849b4126084f937bdf
+  - enabled: 1
+    path: Assets/Scenes/Fase4.unity
+    guid: 3e4bee7b7fc4c2149b197692c6a55206
+  - enabled: 1
+    path: Assets/Scenes/feedbackVitoria4.unity
+    guid: 434ca1a4fe3b57244b90e5e5740f0740
+  - enabled: 1
+    path: Assets/Scenes/feedbackDerrota4.unity
+    guid: c88a798557289834e93353014d47677a
+  - enabled: 1
+    path: Assets/Scenes/Fase5.unity
+    guid: ae7d1bb573c1951498330db0f194583a
+  - enabled: 1
+    path: Assets/Scenes/feedbackVitoria5.unity
+    guid: 9bcc9c85db005884293432fb416d9509
+  - enabled: 1
+    path: Assets/Scenes/feedbackDerrota5.unity
+    guid: 146cd042da212f342bfe39ad09d4c9d1
+  - enabled: 1
+    path: Assets/Scenes/FinalJogo.unity
+    guid: 405b9feb0c285e048b2a6819e534f1b4
+  m_configObjects: {}
